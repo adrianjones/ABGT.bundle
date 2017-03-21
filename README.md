@@ -1,2 +1,6 @@
 # ABGT.bundle
-Above &amp; Beyond: Group Therapy Radio Plex Channel 
+
+A Plex based podcast aggregation channel for Above & Beyond: Group Therapy Radio show.
+
+CHANGELOG: 
+07/03/17    First checkin
